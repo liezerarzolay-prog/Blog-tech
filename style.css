@@ -2,9 +2,13 @@ header {
 border-color: #15ff00;
 color: #1100ff;
 text-align: center;
-max-width: 120px;
+max-width: 800px;
 margin: 0 auto;
 padding: 16px;
+}
+
+h1{
+    color: rgb(0, 213, 255);
 }
 
 main {
